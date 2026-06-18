@@ -1,0 +1,12 @@
+{
+  "name": "paintarables",
+  "version": "1.0.0",
+  "description": "Paintarables - Wood Edition",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.0.0"
+  }
+}
